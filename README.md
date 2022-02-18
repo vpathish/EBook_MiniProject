@@ -8,6 +8,6 @@ E Book is an android application to read the books online & offline. E Book Andr
 ### Team Members:
 Hariharasudhan P - RA1911042010088
 Ashwin S         - RA1911042010089
-Athish VP        - RA1911042010099
-Sree Nandha      - RA1911042010068
+Athish V P        - RA1911042010099
+Sree Nandha S S    - RA1911042010068
 
